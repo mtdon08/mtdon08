@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Abdul
-- 👀 I’m interested in learning about Distributed Systems, Machine Learning, and High Frequency Trading 
-- 🌱 I’m currently learning about Distributed Systems and Data Engineering  
-- 💞️ I’m looking to collaborate on- I honestly don't know yet. :)
-- 📫 How to reach me ... email me @ Abdul.Ogunsiji@gmail.com
+👋 Hi, I’m Abdul — a Data Engineer with 6+ years of experience building scalable cloud data pipelines.
 
-<!---
-mtdon08/mtdon08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 My focus areas include Distributed Systems, Data Infrastructure, and Real-Time ETL with AWS and Airflow.
+
+🧠 Currently expanding my expertise in DBT, Spark, and scalable architectures for high-volume data processing.
+
+📂 Explore my portfolio of personal and professional projects below.
+
+📫 Reach me at Abdul.Ogunsiji@gmail.com
